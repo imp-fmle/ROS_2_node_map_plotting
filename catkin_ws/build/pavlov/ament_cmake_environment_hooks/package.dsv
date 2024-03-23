@@ -1,0 +1,4 @@
+source;share/pavlov/local_setup.bash
+source;share/pavlov/local_setup.dsv
+source;share/pavlov/local_setup.sh
+source;share/pavlov/local_setup.zsh

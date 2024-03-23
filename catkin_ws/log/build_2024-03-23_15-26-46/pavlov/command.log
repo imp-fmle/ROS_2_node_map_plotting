@@ -1,0 +1,4 @@
+Invoking command in '/root/catkin_ws/build/pavlov': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/catkin_ws/build/pavlov -- -j2 -l2
+Invoked command in '/root/catkin_ws/build/pavlov' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/catkin_ws/build/pavlov -- -j2 -l2
+Invoking command in '/root/catkin_ws/build/pavlov': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/catkin_ws/build/pavlov
+Invoked command in '/root/catkin_ws/build/pavlov' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/catkin_ws/build/pavlov

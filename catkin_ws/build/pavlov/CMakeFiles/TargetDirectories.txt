@@ -1,0 +1,9 @@
+/root/catkin_ws/build/pavlov/CMakeFiles/uninstall.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/pavlov_uninstall.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/test.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/edit_cache.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/rebuild_cache.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/list_install_components.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/install.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/install/local.dir
+/root/catkin_ws/build/pavlov/CMakeFiles/install/strip.dir
